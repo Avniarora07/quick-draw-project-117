@@ -1,0 +1,45 @@
+body{
+    background-color: powderblue
+}
+
+#score{
+    font-size: 30px;
+   margin-right: 1150px;
+   background-color: rgb(25, 188, 221);
+   color: aliceblue;
+    
+}
+
+#timer{
+    font-size: 30px;
+   background-color: rgb(25, 188, 221);
+   color: aliceblue;
+
+}
+
+#sketch_drawn{
+    font-size: 30px;
+    color: rgb(255, 0, 0);
+    font-family: serif
+}
+h1{
+    font-size: 40px;
+    font-family: serif;
+    background-color: aliceblue;
+    text-align: center;
+    color: rgb(6, 55, 97);
+}
+
+button{
+    float: right;
+}
+
+#your_sketch{
+font-size: 25px;
+font-family: serif;
+}
+
+#accuracy{
+    font-size: 25px;
+    font-family: serif;
+    }
